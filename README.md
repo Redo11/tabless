@@ -19,16 +19,16 @@ Install dependencies with `npm install` before running the following scripts.
 To develop with external services you will additionally need to signup for your own API keys
 and enter them into your `.env` file. Get started by copying the example provided `cp .env.example .env`.
 
-## Usage
+# Usage
 
-# General
+## General
 
 After running build command go to tabless/dist and
 pack all files to zip with extension
 - XPI for Firefox
 - ZIP for Chrome
 
-# Firefox
+## Firefox
 
 !!!
 `You can use unsigned extensions only on developer version.
@@ -37,7 +37,7 @@ Waterfox and Icecat are not tested by me. Feedback appriciated!
 !!!
 Just drag&drop extension(XPI), or open like webpage.
 
-# Chrome,Chromium
+## Chrome,Chromium
 
 `Using developer mode (not version) allows to install unverified extensions.
 Other chromium based browsers, should have developer mode in them.`
