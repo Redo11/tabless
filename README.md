@@ -1,6 +1,8 @@
-# Tabliss
+# Tabless
 
-A pluggable New Tab web extension written in TypeScript, React and Redux.
+A tabliss fork, adding private search engines and a few things.
+
+# Original website
 
 [https://tabliss.io](https://tabliss.io)
 
@@ -19,4 +21,4 @@ and enter them into your `.env` file. Get started by copying the example provide
 
 ## Translations
 
-Checkout the guide to [adding translations](TRANSLATING.md).
+Go [https://github.com/joelshepherd/tabliss](here) for more info.
