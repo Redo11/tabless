@@ -186,4 +186,9 @@ export const engines: Engine[] = [
   name: 'Peekier',
   search_url: 'https://peekier.com/#!{searchTerms}',
   },
+  {
+    key: 'metager',
+    name: 'MetaGer',
+    search_url: 'https://metager.de/meta/meta.ger3?eingabe={searchTerms}',
+  },
 ];
